@@ -1,11 +1,6 @@
 # Bem-vindo ao Brasileirão
 
-Neste projeto simples trabalhamos um pouco com alguns hooks do React, como useState e useEffect. Além disso, utilizamos o `axios` para conectarmos à API Futebol (https://www.api-futebol.com.br/).
-
-O projeto inicial conta com apenas 1 página refletindo a tabela atual do Campeonato Brasileiro (se você estiver utilizando a LIVE KEY) ou uma tabela passada (TEST KEY). Trata-se de uma implementação básica e de fácil entendimento para quem está aprendendo, onde criamos também uma tabela e a estilizamos de diversas formas com CSS.
-
-Utilizamos a biblioteca React juntamente com o build tool Vite para o desenvolvimento desta página, garantindo uma experiência de usuário rápida e eficiente. Além disso, estamos sempre atualizando nosso código para oferecer a você a melhor experiência possível.
-
+Projeto criado a partir do documento passado em sala de aula,(TEDW).
 ###### Se você deseja clonar este projeto, lembre-se:
 
 Para instalar as dependências: `npm install`.
